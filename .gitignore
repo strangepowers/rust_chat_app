@@ -1,0 +1,7 @@
+tcpclient/target/
+tcpclient/foo/
+tcpclient/ca
+tcpclient/target/
+tcpserver/target/
+tcpclient/foo
+tcpserver/test.hs
